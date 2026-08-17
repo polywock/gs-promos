@@ -2,12 +2,22 @@
   "$schema": "config.schema.json",
   "groups": [
     {
-      "tooltip": "Test",
+      "tooltip": "I made a geography game on Reddit: see a photo, guess the location, drop a pin.",
       "entries": [
         {
-          "primary": "Check this out.",
-          "secondary": "Go to here!",
-          "link": "https://www.reddit.com"
+          "primary": "Do you know where the Titanic sank?",
+          "secondary": "Guess now",
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1vmt0r4"
+        },
+        {
+          "primary": "Do you know where Abraham Lincoln was born?",
+          "secondary": "Guess now",
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1vpajxz"
+        },
+        {
+          "primary": "Could you pinpoint Kansas on a map?",
+          "secondary": "Guess now",
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1vndmmh"
         }
       ]
     }
