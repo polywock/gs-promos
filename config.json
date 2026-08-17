@@ -2,7 +2,7 @@
   "$schema": "config.schema.json",
   "groups": [
     {
-      "tooltip": "I made a geography game on Reddit: see a photo, guess the location, drop a pin.",
+      "tooltip": "Check out my geography game on Reddit: see a photo and guess the location.",
       "entries": [
         {
           "primary": "Do you know where the Titanic sank?",
