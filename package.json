@@ -1,0 +1,7 @@
+{
+  "name": "gs-promos",
+  "version": "1.0.0",
+  "scripts": {
+    "release": "node release.js"
+  }
+}

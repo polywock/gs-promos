@@ -1,0 +1,15 @@
+{
+  "$schema": "config.schema.json",
+  "groups": [
+    {
+      "tooltip": "Test",
+      "entries": [
+        {
+          "primary": "Check this out.",
+          "secondary": "Go to here!",
+          "link": "https://www.reddit.com"
+        }
+      ]
+    }
+  ]
+}
