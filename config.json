@@ -1,6 +1,25 @@
 {
   "$schema": "config.schema.json",
   "groups": [
-    
+    {
+      "tooltip": "Check out my geography game on Reddit: see a photo and guess the location.",
+      "entries": [
+        {
+          "primary": "Do you know where the Titanic sank?",
+          "secondary": "Guess now",
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1vmt0r4"
+        },
+        {
+          "primary": "Can you find the world's deepest lake on a map?",
+          "secondary": "Guess now",
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wh8uig"
+        },
+        {
+          "primary": "Which U.S. state was the microwave oven invented in?",
+          "secondary": "Guess now",
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wh9snh"
+        }
+      ]
+    }
   ]
 }
