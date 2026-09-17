@@ -12,17 +12,20 @@
         {
           "primary": "Can you find the world's deepest lake on a map?",
           "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wh8uig"
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wh8uig",
+          "fr": 2
         },
         {
           "primary": "Where was the microwave oven invented?",
           "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wh9snh"
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wh9snh",
+          "fr": 2
         },
         {
           "primary": "Can you find Chicago on a map?",
           "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wj0spa"
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wj0spa",
+          "fr": 2
         }
       ]
     }
