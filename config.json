@@ -32,7 +32,12 @@
         {
           "primary": "What country has the lowest fertility rate?",
           "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wkq1bp",
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wkq1bp"
+        },
+        {
+          "primary": "What country has the highest fertility rate?",
+          "secondary": "Guess now",
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wlp0kc",
           "fr": 3
         }
       ]
