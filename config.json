@@ -15,11 +15,6 @@
           "link": "https://www.reddit.com/r/GuessThePlace/comments/1wh8uig"
         },
         {
-          "primary": "Where was the microwave oven invented?",
-          "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wh9snh"
-        },
-        {
           "primary": "Can you find Chicago on a map?",
           "secondary": "Guess now",
           "link": "https://www.reddit.com/r/GuessThePlace/comments/1wj0spa"
@@ -37,8 +32,13 @@
         {
           "primary": "What country has the highest fertility rate?",
           "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wlp0kc",
-          "fr": 3
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wlp0kc"
+        },
+        {
+          "primary": "Can you locate Paris on a blank map?",
+          "secondary": "Guess now",
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wmqjen",
+          "fr": 4
         }
       ]
     }
