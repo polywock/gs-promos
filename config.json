@@ -37,14 +37,19 @@
         {
           "primary": "Can you locate Paris on a blank map?",
           "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wmqjen",
-          "fr": 4
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wmqjen"
         },
         {
           "primary": "Can you locate this city?",
           "secondary": "Guess now",
           "link": "https://www.reddit.com/r/GuessThePlace/comments/1wn3yop",
-          "fr": 4
+          "fr": 3
+        },
+        {
+          "primary": "Can you name the three countries starting with F?",
+          "secondary": "Guess now",
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wne8py",
+          "fr": 3
         }
       ]
     }
