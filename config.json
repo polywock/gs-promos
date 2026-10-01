@@ -5,26 +5,6 @@
       "tooltip": "Check out my geography game on Reddit: see a photo and guess the location.",
       "entries": [
         {
-          "primary": "Do you know where the Titanic sank?",
-          "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1vmt0r4"
-        },
-        {
-          "primary": "Can you find the world's deepest lake on a map?",
-          "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wh8uig"
-        },
-        {
-          "primary": "Can you find Chicago on a map?",
-          "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wj0spa"
-        },
-        {
-          "primary": "Can you locate Paris on a blank map?",
-          "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wmqjen"
-        },
-        {
           "primary": "Can you name the three countries starting with F?",
           "secondary": "Guess now",
           "link": "https://www.reddit.com/r/GuessThePlace/comments/1wne8py"
@@ -32,7 +12,12 @@
         {
           "primary": "Where was the deepest hole in the world drilled?",
           "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wne8py",
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wne8py"
+        },
+        {
+          "primary": "What are the nine countries with nuclear weapons?",
+          "secondary": "Guess now",
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wv8az4/what_are_the_nine_countries_with_nuclear_weapons",
           "fr": 3
         }
       ]
