@@ -3,6 +3,7 @@
   "groups": [
     {
       "tooltip": "Check out my geography game on Reddit: see a photo and guess the location.",
+      "fr": 2,
       "entries": [
         {
           "primary": "Can you name the three countries starting with F?",
@@ -17,8 +18,37 @@
         {
           "primary": "What are the nine countries with nuclear weapons?",
           "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wv8az4/what_are_the_nine_countries_with_nuclear_weapons",
-          "fr": 3
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wv8az4"
+        },
+        {
+          "primary": "Where was the world’s first nuclear bomb tested?",
+          "secondary": "Guess now",
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wzayfv"
+        },
+        {
+          "primary": "Do you know where these TV shows are set in?",
+          "secondary": "Guess now",
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wx80a0"
+        },
+        {
+          "primary": "If the world became one country, which city should be its capital?",
+          "secondary": "Vote now",
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1wykl5v"
+        },
+        {
+          "primary": "Can you find Missouri on an unlabeled map?",
+          "secondary": "Guess now",
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1ww420y"
+        }
+      ]
+    },
+    {
+      "tooltip": "Check out my daily geography game on Reddit! Connect two regions by guessing the bordering regions in between.",
+      "entries": [
+        {
+          "primary": "Can you connect Morocco and Egypt?",
+          "secondary": "Play now",
+          "link": "https://www.reddit.com/r/Connectle/comments/1wzfi30"
         }
       ]
     }
