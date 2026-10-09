@@ -46,9 +46,14 @@
       "tooltip": "Check out my daily geography game on Reddit! Connect two regions by guessing the bordering regions in between.",
       "entries": [
         {
-          "primary": "Can you connect Morocco and Egypt?",
+          "primary": "Can you connect Mexico and Afghanistan?",
           "secondary": "Play now",
-          "link": "https://www.reddit.com/r/Connectle/comments/1wzfi30"
+          "link": "https://www.reddit.com/r/Connectle/comments/1x14ab4"
+        },
+        {
+          "primary": "Can you connect Iraq and Sri Lanka?",
+          "secondary": "Play now",
+          "link": "https://www.reddit.com/r/Connectle/comments/1x1sb9t"
         }
       ]
     }
