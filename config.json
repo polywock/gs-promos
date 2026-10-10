@@ -3,12 +3,11 @@
   "groups": [
     {
       "tooltip": "Check out my geography game on Reddit: see a photo and guess the location.",
-      "fr": 2,
       "entries": [
         {
-          "primary": "Can you find New Delhi on a blank map?",
+          "primary": "A double flash in 1979 raised suspicions of a nuclear test. Where did it happen?",
           "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1x1s5v1"
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1x2cuyv"
         }
       ]
     },
@@ -16,14 +15,9 @@
       "tooltip": "Check out my daily geography game on Reddit! Connect two regions by guessing the bordering regions in between.",
       "entries": [
         {
-          "primary": "Can you connect Mexico and Afghanistan?",
+          "primary": "Can you connect Italy and Iran?",
           "secondary": "Play now",
-          "link": "https://www.reddit.com/r/Connectle/comments/1x14ab4"
-        },
-        {
-          "primary": "Can you connect Iraq and Sri Lanka?",
-          "secondary": "Play now",
-          "link": "https://www.reddit.com/r/Connectle/comments/1x1sb9t"
+          "link": "https://www.reddit.com/r/Connectle/comments/1x2cdxj"
         }
       ]
     }
