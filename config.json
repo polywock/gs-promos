@@ -5,9 +5,9 @@
       "tooltip": "Check out my geography game on Reddit: see a photo and guess the location.",
       "entries": [
         {
-          "primary": "Where did the Chernobyl disaster happen?",
-          "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1x5xxt7"
+          "primary": "If you were offered $5 million to move, which country would you choose?",
+          "secondary": "Vote now",
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1x6xv3i"
         }
       ]
     },
@@ -15,9 +15,9 @@
       "tooltip": "Check out my daily geography game on Reddit! Connect two regions by guessing the bordering regions in between.",
       "entries": [
         {
-          "primary": "Can you connect Mongolia and Iran?",
+          "primary": "Can you connect Arizona and Georgia?",
           "secondary": "Play now",
-          "link": "https://www.reddit.com/r/Connectle/comments/1x5x7mk"
+          "link": "https://www.reddit.com/r/Connectle/comments/1x6wnsp"
         }
       ]
     }
