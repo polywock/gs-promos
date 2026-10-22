@@ -5,9 +5,9 @@
       "tooltip": "Check out my geography game on Reddit: see a photo and guess the location.",
       "entries": [
         {
-          "primary": "What country's flag is this?",
+          "primary": "What country has the most pyramids?",
           "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1xawvk2/what_countrys_flag_is_this/"
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1xbwkco/what_country_has_the_most_pyramids/"
         }
       ]
     },
@@ -15,9 +15,9 @@
       "tooltip": "Check out my daily geography game on Reddit! Connect two regions by guessing the bordering regions in between.",
       "entries": [
         {
-          "primary": "Can you connect Albania and Germany?",
+          "primary": "Can you connect Portugal and Hungary?",
           "secondary": "Play now",
-          "link": "https://www.reddit.com/r/Connectle/comments/1xawjje/can_you_connect_albania_and_germany_october_20/"
+          "link": "https://www.reddit.com/r/Connectle/comments/1xbvzrq/can_you_connect_portugal_and_hungary_october_21/"
         }
       ]
     }
