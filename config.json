@@ -5,9 +5,9 @@
       "tooltip": "Check out my geography game on Reddit: see a photo and guess the location.",
       "entries": [
         {
-          "primary": "Where is this segregated entrance?",
+          "primary": "Where was this photo taken?",
           "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1xf81eh/where_is_this_segregated_entrance/"
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1xg2kno/these_mountains_arent_located_inside_the_country/"
         }
       ]
     },
@@ -15,9 +15,9 @@
       "tooltip": "Check out my daily geography game on Reddit! Connect two regions by guessing the bordering regions in between.",
       "entries": [
         {
-          "primary": "Can you connect Spain and China?",
+          "primary": "Can you connect the U.S. and Vatican City?",
           "secondary": "Play now",
-          "link": "https://www.reddit.com/r/Connectle/comments/1xf878v/can_you_connect_spain_and_china_october_25_2026/"
+          "link": "https://www.reddit.com/r/Connectle/comments/1xg396w/can_you_connect_the_us_and_vatican_city_october/"
         }
       ]
     }
