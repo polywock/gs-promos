@@ -5,9 +5,9 @@
       "tooltip": "Check out my geography game on Reddit: see a photo and guess the location.",
       "entries": [
         {
-          "primary": "Where was this photo taken?",
+          "primary": "Where is this landmark?",
           "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1xg2kno/these_mountains_arent_located_inside_the_country/"
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1xh4fpt/where_is_this_landmark/"
         }
       ]
     },
@@ -15,9 +15,9 @@
       "tooltip": "Check out my daily geography game on Reddit! Connect two regions by guessing the bordering regions in between.",
       "entries": [
         {
-          "primary": "Can you connect the U.S. and Vatican City?",
+          "primary": "Can you connect Uzbekistan and Thailand?",
           "secondary": "Play now",
-          "link": "https://www.reddit.com/r/Connectle/comments/1xg396w/can_you_connect_the_us_and_vatican_city_october/"
+          "link": "https://www.reddit.com/r/Connectle/comments/1xh1qu9/can_you_connect_uzbekistan_and_thailand_october/"
         }
       ]
     }
