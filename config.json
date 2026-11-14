@@ -5,9 +5,9 @@
       "tooltip": "Check out my geography game on Reddit: see a photo and guess the location.",
       "entries": [
         {
-          "primary": "Can you find Chad on a map?",
+          "primary": "If you had to, which U.S. state would you move to?",
           "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1xtzo1g/where_is_chad/"
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1xwcb24/poll_you_have_to_move_to_a_us_state_you_have_no/"
         }
       ]
     },
@@ -15,9 +15,9 @@
       "tooltip": "Check out my daily geography game on Reddit! Connect two regions by guessing the bordering regions in between.",
       "entries": [
         {
-          "primary": "Can you connect Panama and Argentina?",
+          "primary": "Can you connect North Korea and Vietnam?",
           "secondary": "Play now",
-          "link": "https://www.reddit.com/r/Connectle/comments/1xtzls0/can_you_connect_panama_and_argentina_november_11/"
+          "link": "https://www.reddit.com/r/Connectle/comments/1xwce6v/can_you_connect_north_korea_and_vietnam_november/"
         }
       ]
     }
