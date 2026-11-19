@@ -5,9 +5,9 @@
       "tooltip": "Check out my geography game on Reddit: see a photo and guess the location.",
       "entries": [
         {
-          "primary": "If you had to, which U.S. state would you move to?",
+          "primary": "Can you find Philadelphia on a blank map?",
           "secondary": "Guess now",
-          "link": "https://www.reddit.com/r/GuessThePlace/comments/1xwcb24/poll_you_have_to_move_to_a_us_state_you_have_no/"
+          "link": "https://www.reddit.com/r/GuessThePlace/comments/1y0jbu2/can_you_find_philadelphia_on_a_blank_map/"
         }
       ]
     },
@@ -15,9 +15,9 @@
       "tooltip": "Check out my daily geography game on Reddit! Connect two regions by guessing the bordering regions in between.",
       "entries": [
         {
-          "primary": "Can you connect North Korea and Vietnam?",
+          "primary": "Can you connect Texas and North Dakota?",
           "secondary": "Play now",
-          "link": "https://www.reddit.com/r/Connectle/comments/1xwce6v/can_you_connect_north_korea_and_vietnam_november/"
+          "link": "https://www.reddit.com/r/Connectle/comments/1y0j3ak/can_you_connect_texas_and_north_dakota_november/"
         }
       ]
     }
